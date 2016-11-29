@@ -1,1 +1,1 @@
-# monicadynamix.github.io
+# DynamiX Front End Development Standards
